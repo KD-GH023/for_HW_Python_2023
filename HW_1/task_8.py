@@ -11,3 +11,4 @@ if  k !=1 and k != (m * n) and (m * n) % k == m or (m * n) % k == n:
     print("yes")
 else:
     print("no")
+    
